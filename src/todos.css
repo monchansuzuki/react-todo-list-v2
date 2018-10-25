@@ -1,0 +1,10 @@
+.todo{
+    border: solid;
+    cursor: pointer;
+    margin: 1%;
+    padding: 1%;
+
+}
+.todo:hover{
+    background-color: aliceblue;
+}
